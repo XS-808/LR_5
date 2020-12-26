@@ -1,0 +1,10 @@
+“#LR_5”
+*.[txt]
+*.a
+!lib.a
+/TODO
+build/
+doc/*.txt
+doc/**/*.pdf
+*.[pdf]
+*.[png]
